@@ -1,0 +1,12 @@
+.venv
+Predictions_for_paper_V3.ipynb
+Prediction_test_set.csv
+possible_container_title.json
+scibert_multilabel_asjc_classifier.pth
+.python-version
+scibert_multilabel_asjc_classifier/
+.env
+data/
+Model_test.ipynb
+HF_test.ipynb
+Model_test.ipynb
