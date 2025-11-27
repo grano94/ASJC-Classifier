@@ -54,26 +54,27 @@ To run a sample inference using the deployed Hugging Face model, execute:
 python model_inference.py
 
 # --- Example model input ---
-text = (
-    "title={Jodometrie}, "
-    "container_title={Fresenius' Zeitschrift für analytische Chemie, Zeitschrift für analytische Chemie}, "
-    "abstract={}"
-)
+
+# text = (
+#     "title={Jodometrie}, "
+#     "container_title={Fresenius' Zeitschrift für analytische Chemie, Zeitschrift für analytische Chemie}, "
+#     "abstract={}"
+# )
 
 
 # --- Example model output ---
 
-[
-  {'label': 'Analytical Chemistry', 'score': 0.933479368686676}, 
-  {'label': 'Clinical Biochemistry', 'score': 0.9108470678329468}, 
-  {'label': 'Biochemistry', 'score': 0.494137704372406}
-]
+# [
+#   {'label': 'Analytical Chemistry', 'score': 0.933479368686676}, 
+#   {'label': 'Clinical Biochemistry', 'score': 0.9108470678329468}, 
+#   {'label': 'Biochemistry', 'score': 0.494137704372406}
+# ]
 
 
 # --- True labels ---
 
-- Clinical Biochemistry  
-- Analytical Chemistry  
+# - Clinical Biochemistry  
+# - Analytical Chemistry  
 ```
 
 ---
