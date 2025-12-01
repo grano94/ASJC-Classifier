@@ -4,9 +4,7 @@ This repository contains the resources used to [deploy](./hugging_face_deploymen
 
 ➡️ https://huggingface.co/asjc-classification/scibert_multilabel_asjc_classifier
 
-The model can be used to assess the disciplinary orientation of research documents or collections.
-
-The notebook hugging_face_deployment.ipynb documents the process used to upload and deploy the model to Hugging Face. An example inference workflow is provided in model_inference.py. Additional details and usage guidance are available on the Hugging Face model page.
+The model can be used to assess the disciplinary orientation of research documents or collections. Additional details and usage guidance are available on the Hugging Face model page.
 
 ---
 
