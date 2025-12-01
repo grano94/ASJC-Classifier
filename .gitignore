@@ -6,7 +6,7 @@ scibert_multilabel_asjc_classifier.pth
 .python-version
 scibert_multilabel_asjc_classifier/
 .env
-data/
 Model_test.ipynb
 HF_test.ipynb
 Model_test.ipynb
+.gitignore
