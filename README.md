@@ -19,7 +19,8 @@ If you use this work, please cite:
   author    = {Gusenbauer, Michael and Endermann, Jochen and Huber, Harald and Strasser, Simon and Granitzer, Andreas-Nizar and Ströhle, Thomas},
   title     = {Fine-tuning SciBERT to enable ASJC-based assessments of the disciplinary orientation of research collections},
   journal   = {Scientometrics},
-  year      = {2025}
+  year      = {2025},
+  doi       = {10.1007/s11192-025-05490-0}
 }
 ```
 
